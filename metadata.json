@@ -1,0 +1,5 @@
+{
+  "name": "Anajak Image Studio",
+  "description": "An advanced web application utilizing the Gemini API to understand images, generate new images from text prompts, and edit existing images with text instructions.",
+  "requestFramePermissions": []
+}
